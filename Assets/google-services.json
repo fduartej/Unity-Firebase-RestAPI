@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685520063383",
+    "firebase_url": "https://unitypoc-ed7e1.firebaseio.com",
+    "project_id": "unitypoc-ed7e1",
+    "storage_bucket": "unitypoc-ed7e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685520063383:android:7880e9c633d2451f5212d2",
+        "android_client_info": {
+          "package_name": "com.contoso.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685520063383-sbhtpem38pite14oegr1p3mv2ep4c7ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0Iit8eoh5hRsvYBQCeNd5i5WyjG6zx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685520063383-sbhtpem38pite14oegr1p3mv2ep4c7ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
